@@ -1,4 +1,3 @@
-@@ -0,0 +1,146 @@
 // ============================================================
 //  GOOGLE APPS SCRIPT — REST API Backend
 //  วิธีใช้: Deploy > New deployment > Web App
